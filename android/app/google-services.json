@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262309608840",
+    "project_id": "bikerider-22",
+    "storage_bucket": "bikerider-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262309608840:android:9347347b06410fbdebce3d",
+        "android_client_info": {
+          "package_name": "com.example.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262309608840-s6vcol9qg9ch9739vmn5cmembmhs1ued.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRsnPer-BqitgNY0zSNo9U9Ei96WRVaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262309608840-s6vcol9qg9ch9739vmn5cmembmhs1ued.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
